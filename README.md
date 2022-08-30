@@ -4,7 +4,7 @@
  <img alt="os" src="https://img.shields.io/badge/os-Windows-purple">
   <a href="https://discord.com/users/286563564595183616"><img alt="Discord" src="https://img.shields.io/badge/Berke%236636-7289DA?style=flat&logo=discord&logoColor=white"/>
 
-<h3> I'm self-taught backend developer!/>
+<h3> I'm self-taught backend developer!</h3>
 
 ##
 <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,go,rust,tauri,python,java,arduino,c,matlab,electron,angular,html,css,nodejs,mysql,mongodb,firebase,vscode,discord&theme=dark" />
