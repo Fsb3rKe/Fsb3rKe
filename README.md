@@ -1,5 +1,9 @@
-### Hi there, I'm Berke 👋
+<div align="center">
+  <h1>Hi there, I'm Berke 👋</h1>
 
+ <img alt="os" src="https://img.shields.io/badge/os-Windows-purple">
+  <a href="https://discord.com/users/350945523810959361">
+  
 ## I'm self-taught backend developer!
 - 🔭 I’m currently working on an explorer program
 - 🌱 I’m currently learning rust, tauri
