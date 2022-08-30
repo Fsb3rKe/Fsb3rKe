@@ -2,11 +2,13 @@
   <h1>Hi there, I'm Berke 👋</h1>
 
  <img alt="os" src="https://img.shields.io/badge/os-Windows-purple">
-  <a href="https://discord.com/users/286563564595183616"><img alt="Discord" src="https://img.shields.io/badge/Berke%236636-7289DA?style=flat&logo=discord&logoColor=white"/>
+  <a href="https://discord.com/users/286563564595183616"><img alt="Discord" src="https://img.shields.io/badge/Berke%236636-7289DA?style=flat&logo=discord&logoColor=white"></a>
 
 <h3> I'm self-taught backend developer!</h3>
 
-- 📫 How to reach me: [instagram](https://www.instagram.com/hz.berkos/) or my [discord](https://discord.com/users/286563564595183616) account
+<h4>
+📫 How to reach me: <a href="https://www.instagram.com/hz.berkos/">instagram<a/>
+</h4>
 
 ##
 <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,go,rust,tauri,python,java,arduino,c,matlab,electron,angular,html,css,nodejs,mysql,mongodb,firebase,vscode,discord&theme=dark" />
