@@ -11,7 +11,7 @@
 </h4>
 
 ##
-<img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,go,rust,tauri,python,java,arduino,c,matlab,electron,angular,html,css,nodejs,mysql,mongodb,firebase,vscode,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,go,rust,tauri,python,java,electron,html,css,nodejs,mysql,vscode,discord&theme=dark" />
 <br/>
 <br/>
 <div width="50%"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=fsb3rke&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
