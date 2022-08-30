@@ -1,6 +1,6 @@
 ### Hi there, I'm Berke 👋
 
-## I'm self-taught programmer!
+## I'm self-taught backend developer!
 - 🔭 I’m currently working on an explorer program
 - 🌱 I’m currently learning rust, tauri
 - 👯 I’m looking to collaborate on with other content creators
