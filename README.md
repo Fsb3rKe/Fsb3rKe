@@ -6,6 +6,8 @@
 
 <h3> I'm self-taught backend developer!</h3>
 
+- 📫 How to reach me: [instagram](https://www.instagram.com/hz.berkos/) or my [discord]("https://discord.com/users/286563564595183616) account
+
 ##
 <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,go,rust,tauri,python,java,arduino,c,matlab,electron,angular,html,css,nodejs,mysql,mongodb,firebase,vscode,discord&theme=dark" />
 <br/>
