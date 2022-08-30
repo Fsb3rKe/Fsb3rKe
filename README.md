@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Berke 👋</h1>
 
  <img alt="os" src="https://img.shields.io/badge/os-Windows-purple">
-  <a href="https://discord.com/users/350945523810959361">
+  <a href="https://discord.com/users/286563564595183616">
   
 ## I'm self-taught backend developer!
 - 🔭 I’m currently working on an explorer program
