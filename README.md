@@ -3,6 +3,7 @@
 
  <img alt="os" src="https://img.shields.io/badge/os-Windows-purple">
   <a href="https://discord.com/users/286563564595183616"><img alt="Discord" src="https://img.shields.io/badge/Berke%236636-7289DA?style=flat&logo=discord&logoColor=white"></a>
+ <img alt="profile view" src="https://komarev.com/ghpvc/?username=your-github-fsb3rke">
 
 <h3> I'm self-taught backend developer!</h3>
 
