@@ -8,7 +8,8 @@
 <h3> I'm self-taught backend developer!</h3>
 
 <h4>
-📫 How to reach me: <a href="https://www.instagram.com/hz.berkos/">instagram<a/>
+📫 How to reach me: <a target="_blank" href="https://www.instagram.com/hz.berkos/">instagram<a/>
+🌌 Personal Website: <a target="_blank" href="https://fsb3rke.github.io/">
 </h4>
 
 ##
