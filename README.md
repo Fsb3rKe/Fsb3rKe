@@ -9,7 +9,8 @@
 
 <h4>
 📫 How to reach me: <a target="_blank" href="https://www.instagram.com/hz.berkos/">instagram<a/>
-🌌 [Personal Website](https://fsb3rke.github.io/)
+  <br><br>
+🌌 <a target="_blank" href="https://fsb3rke.github.io/">Personal Website</a>
 </h4>
 
 ##
