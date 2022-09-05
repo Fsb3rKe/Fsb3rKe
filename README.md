@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <h1>Hi there, I'm Berke 👋</h1>
 
@@ -20,3 +21,7 @@
 <div width="50%"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=fsb3rke&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=fsb3rke&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=fsb3rke&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
+-->
+
+<div align="center">
+  <h3>Hi there, 👋</h3>
