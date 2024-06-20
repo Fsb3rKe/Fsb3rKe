@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-End Developer
 ------------------
 
-I've been learning code for 3 years. 16 yo. self-taught dev.
+I've been learning code for 3 years. 17 yo. self-taught dev.
 
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [Github Repositories](http://github.com/fsb3rke?tab=repositories)
